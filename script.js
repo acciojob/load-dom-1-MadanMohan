@@ -1,4 +1,4 @@
 //your JS code here. If required.
-document.getEventListener(DOMContentLoaded, (event)=>{
+document.addEventListener(DOMContentLoaded, (event)=>{
 	console.log("DOM load success")
 })
